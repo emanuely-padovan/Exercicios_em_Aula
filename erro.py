@@ -1,3 +1,2 @@
-print("Deu erro né?")
-s = 0
-print(s)
+x = 2+2
+print(x)
